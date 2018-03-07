@@ -37,8 +37,8 @@ public class CalculateAreaOfShapesTest {
 
     @Test
     public void WhenIHaveACircle(){
-        String PieByRadiusByRadius = "3.14*3*3";
-        double expectedResults = 28.26;
+        String PieByRadiusByRadius = "22/7*3*3";
+        double expectedResults = 28.29;
 
         double actualResults = area.calculateArea(PieByRadiusByRadius);
 
