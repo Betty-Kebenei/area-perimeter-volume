@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea285d09-b825-4148-a9f4-d7301e15aa80" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/CalculatePerimeterOfShapes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/CalculatePerimeterOfShapesTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CalculateAreaOfShapes.java" afterPath="$PROJECT_DIR$/src/com/company/CalculateAreaOfShapes.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CalculateAreaOfShapesTest.java" afterPath="$PROJECT_DIR$/src/com/company/CalculateAreaOfShapesTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <state relative-caret-position="190">
+              <caret line="69" column="54" lean-forward="true" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -32,18 +27,18 @@
       <file leaf-file-name="CalculateAreaOfShapes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/CalculateAreaOfShapes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+            <state relative-caret-position="30">
+              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculateAreaOfShapesTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculateAreaOfShapesTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/CalculateAreaOfShapesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="39" column="46" lean-forward="false" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+            <state relative-caret-position="360">
+              <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#338#339#0" expanded="true" />
@@ -56,8 +51,8 @@
       <file leaf-file-name="CalculatePerimeterOfShapes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/CalculatePerimeterOfShapes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="35" column="1" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -107,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/com/company/CalculatePerimeterOfShapesTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/CalculateAreaOfShapes.java" />
         <option value="$PROJECT_DIR$/src/com/company/CalculateAreaOfShapesTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -175,7 +171,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculateAreaOfShapesTest.WhenIHaveACircle">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CalculateAreaOfShapes" />
+      <envs />
+    </configuration>
     <configuration name="CalculateAreaOfShapesTest.WhenIHaveACircle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -189,31 +204,6 @@
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.CalculateAreaOfShapesTest" />
       <option name="METHOD_NAME" value="WhenIHaveACircle" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="CalculateAreaOfShapesTest.WhenIHaveARectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="CalculateAreaOfShapes" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.CalculateAreaOfShapesTest" />
-      <option name="METHOD_NAME" value="WhenIHaveARectangle" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -317,19 +307,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculateAreaOfShapesTest.WhenIHaveARectangle" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculateAreaOfShapesTest.WhenIHaveACircle" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveASquare" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveARectangle" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveACircle" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculateAreaOfShapesTest.WhenIHaveACircle" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveASquare" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveARectangle" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveACircle" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculateAreaOfShapesTest.WhenIHaveACircle" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveACircle" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveARectangle" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveASquare" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculateAreaOfShapesTest.WhenIHaveARectangle" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculateAreaOfShapesTest.WhenIHaveACircle" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveACircle" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveARectangle" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatePerimeterOfShapesTest.WhenIHaveASquare" />
       </list>
     </recent_temporary>
   </component>
@@ -350,12 +340,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculateAreaOfShapesTest_WhenIHaveACircle - 2018.03.07 at 22h 38m 34s.xml">
-      <configuration name="CalculateAreaOfShapesTest.WhenIHaveACircle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculateAreaOfShapesTest_WhenIHaveACircle - 2018.03.07 at 22h 39m 13s.xml">
-      <configuration name="CalculateAreaOfShapesTest.WhenIHaveACircle" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculateAreaOfShapesTest_WhenIHaveACircle - 2018.03.07 at 22h 41m 19s.xml">
       <configuration name="CalculateAreaOfShapesTest.WhenIHaveACircle" configurationId="JUnit" />
     </history-entry>
@@ -380,6 +364,12 @@
     <history-entry file="CalculateAreaOfShapesTest_WhenIHaveACircle - 2018.03.07 at 22h 46m 31s.xml">
       <configuration name="CalculateAreaOfShapesTest.WhenIHaveACircle" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CalculateAreaOfShapesTest_WhenIHaveACircle - 2018.03.07 at 22h 47m 28s.xml">
+      <configuration name="CalculateAreaOfShapesTest.WhenIHaveACircle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateAreaOfShapesTest_WhenIHaveACircle - 2018.03.08 at 10h 18m 33s.xml">
+      <configuration name="CalculateAreaOfShapesTest.WhenIHaveACircle" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -387,15 +377,15 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33252722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="21" y="426" width="1398" height="47" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5574365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -421,14 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CalculatePerimeterOfShapesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -441,31 +423,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CalculatePerimeterOfShapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="35" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CalculateAreaOfShapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CalculateAreaOfShapesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="39" column="46" lean-forward="false" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        <state relative-caret-position="360">
+          <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#338#339#0" expanded="true" />
             <element signature="e#388#389#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CalculateAreaOfShapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CalculatePerimeterOfShapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="69" column="54" lean-forward="true" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
